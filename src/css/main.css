@@ -1,0 +1,15 @@
+.main-info {
+  display: block;
+  width: 500px;
+}
+img {
+  margin: 20px;
+}
+
+.cat-info {
+  display: flex;
+}
+
+p span {
+  font-weight: bold;
+}
